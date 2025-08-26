@@ -177,6 +177,8 @@ cython_debug/
 # VSCode
 # .vscode/
 
+vllm_profile/
+
 # DS Store
 .DS_Store
 
